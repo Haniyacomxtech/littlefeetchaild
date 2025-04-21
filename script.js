@@ -7,6 +7,9 @@ document.addEventListener("DOMContentLoaded", function () {
         <form id="myForm">
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
+
+            <label for="name">Last Name:</label>
+            <input type="text" id="name" name="name" required>
             
             <label for="email">Email:</label>
             <input type="email" id="email" name="email" required>
