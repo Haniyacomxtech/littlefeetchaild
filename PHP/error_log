@@ -1,0 +1,81 @@
+[09-Apr-2025 07:13:31 UTC] PHP Warning:  Attempt to read property "ParentsName" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 26
+[09-Apr-2025 07:13:31 UTC] PHP Warning:  Attempt to read property "Relationship" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 27
+[09-Apr-2025 07:13:31 UTC] PHP Warning:  Attempt to read property "ChildsName" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 28
+[09-Apr-2025 07:13:31 UTC] PHP Warning:  Attempt to read property "Dob" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 29
+[09-Apr-2025 07:13:31 UTC] PHP Warning:  Attempt to read property "HoursPerDay" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 30
+[09-Apr-2025 07:13:31 UTC] PHP Warning:  Attempt to read property "ContactNumber" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 31
+[09-Apr-2025 07:13:31 UTC] PHP Warning:  Attempt to read property "Email" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 32
+[09-Apr-2025 07:13:31 UTC] PHP Warning:  Attempt to read property "Comments" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 33
+[09-Apr-2025 07:14:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/demo1comxdesigns/public_html/PHP/submit_form.php:12
+Stack trace:
+#0 /home/demo1comxdesigns/public_html/PHP/submit_form.php(12): mysqli->__construct()
+#1 {main}
+  thrown in /home/demo1comxdesigns/public_html/PHP/submit_form.php on line 12
+[09-Apr-2025 07:49:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/demo1comxdesigns/public_html/PHP/submit_form.php:13
+Stack trace:
+#0 /home/demo1comxdesigns/public_html/PHP/submit_form.php(13): mysqli->__construct()
+#1 {main}
+  thrown in /home/demo1comxdesigns/public_html/PHP/submit_form.php on line 13
+[09-Apr-2025 08:09:36 UTC] PHP Warning:  Attempt to read property "ParentsName" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 26
+[09-Apr-2025 08:09:36 UTC] PHP Warning:  Attempt to read property "Relationship" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 27
+[09-Apr-2025 08:09:36 UTC] PHP Warning:  Attempt to read property "ChildsName" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 28
+[09-Apr-2025 08:09:36 UTC] PHP Warning:  Attempt to read property "Dob" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 29
+[09-Apr-2025 08:09:36 UTC] PHP Warning:  Attempt to read property "HoursPerDay" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 30
+[09-Apr-2025 08:09:36 UTC] PHP Warning:  Attempt to read property "ContactNumber" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 31
+[09-Apr-2025 08:09:36 UTC] PHP Warning:  Attempt to read property "Email" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 32
+[09-Apr-2025 08:09:36 UTC] PHP Warning:  Attempt to read property "Comments" on null in /home/demo1comxdesigns/public_html/PHP/index.php on line 33
+[09-Apr-2025 08:09:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/demo1comxdesigns/public_html/PHP/submit_form.php:7
+Stack trace:
+#0 /home/demo1comxdesigns/public_html/PHP/submit_form.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/demo1comxdesigns/public_html/PHP/submit_form.php on line 7
+[09-Apr-2025 08:09:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/demo1comxdesigns/public_html/PHP/submit_form.php:7
+Stack trace:
+#0 /home/demo1comxdesigns/public_html/PHP/submit_form.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/demo1comxdesigns/public_html/PHP/submit_form.php on line 7
+[09-Apr-2025 08:09:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/demo1comxdesigns/public_html/PHP/submit_form.php:7
+Stack trace:
+#0 /home/demo1comxdesigns/public_html/PHP/submit_form.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/demo1comxdesigns/public_html/PHP/submit_form.php on line 7
+[09-Apr-2025 08:10:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/demo1comxdesigns/public_html/PHP/submit_form.php:7
+Stack trace:
+#0 /home/demo1comxdesigns/public_html/PHP/submit_form.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/demo1comxdesigns/public_html/PHP/submit_form.php on line 7
+[09-Apr-2025 08:10:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/demo1comxdesigns/public_html/PHP/submit_form.php:7
+Stack trace:
+#0 /home/demo1comxdesigns/public_html/PHP/submit_form.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/demo1comxdesigns/public_html/PHP/submit_form.php on line 7
+[09-Apr-2025 09:34:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/demo1comxdesigns/public_html/PHP/submit_form.php:7
+Stack trace:
+#0 /home/demo1comxdesigns/public_html/PHP/submit_form.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/demo1comxdesigns/public_html/PHP/submit_form.php on line 7
+[09-Apr-2025 09:35:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/demo1comxdesigns/public_html/PHP/submit_form.php:7
+Stack trace:
+#0 /home/demo1comxdesigns/public_html/PHP/submit_form.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/demo1comxdesigns/public_html/PHP/submit_form.php on line 7
+[09-Apr-2025 09:36:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/demo1comxdesigns/public_html/PHP/submit_form.php:7
+Stack trace:
+#0 /home/demo1comxdesigns/public_html/PHP/submit_form.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/demo1comxdesigns/public_html/PHP/submit_form.php on line 7
+[09-Apr-2025 09:49:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/demo1comxdesigns/public_html/PHP/submit_form.php:7
+Stack trace:
+#0 /home/demo1comxdesigns/public_html/PHP/submit_form.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/demo1comxdesigns/public_html/PHP/submit_form.php on line 7
+[09-Apr-2025 09:49:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/demo1comxdesigns/public_html/PHP/submit_form.php:7
+Stack trace:
+#0 /home/demo1comxdesigns/public_html/PHP/submit_form.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/demo1comxdesigns/public_html/PHP/submit_form.php on line 7
+[09-Apr-2025 09:52:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/demo1comxdesigns/public_html/PHP/submit_form.php:7
+Stack trace:
+#0 /home/demo1comxdesigns/public_html/PHP/submit_form.php(7): mysqli->__construct()
+#1 {main}
+  thrown in /home/demo1comxdesigns/public_html/PHP/submit_form.php on line 7
