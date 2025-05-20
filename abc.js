@@ -116,6 +116,8 @@ function onRecaptchaLoadCallback() {
                 <form id="myForm" class="pqr">
                     <label for="name">Name:</label><br>
                     <input type="text" id="name" name="name" required style="width:100%;padding:8px;margin:8px 0;"><br>
+                    <label for="name">Last Name:</label><br>
+                    <input type="text" id="last name" name="last name" required style="width:100%;padding:8px;margin:8px 0;"><br>
                     <label for="email">Email:</label><br>
                     <input type="email" id="email" name="email" required style="width:100%;padding:8px;margin:8px 0;"><br>
                     <label for="message">Message:</label><br>
